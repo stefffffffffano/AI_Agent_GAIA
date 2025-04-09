@@ -5,7 +5,8 @@ Built with 🧱 LangGraph • 🤖 GPT-4o • 🔎 RAG + Web Search • 🧠 Lon
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![LangGraph](https://img.shields.io/badge/LangGraph-✓-blueviolet)
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-lightgrey)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-lightgrey)  
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
 
